@@ -12,12 +12,16 @@ This is a body of text. I'm not sure how long it will be but it might be long. O
 
  + What is the point of a question?
  -----------------
+
+
+
+<details><summary>#What is the point of a question?</summary><p>
 To answer things I suppose...
+Collapsible until here.
+</p></details>
 
-
-<details><summary>stuff with *mark* **down**</summary><p>
-
-## _formatted_ **heading** with [a](link)
+<details><summary>#What is the point of a question - With a backtick Box?</summary><p>
+To answer things I suppose...
 
 ---
 {{standard 3-backtick code block omitted from here due to escaping issues}}
@@ -25,3 +29,4 @@ To answer things I suppose...
 
 Collapsible until here.
 </p></details>
+
