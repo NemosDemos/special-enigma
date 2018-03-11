@@ -19,20 +19,14 @@ To answer things I suppose...
 Collapsible until here.
 </p></details>
 
-<details>Random Thingy</details>
+<details2>Random Thingy</details2>
 
 
-<details><summary>      What is the point of a question - With a backtick Box?</summary><p>
+<details%20><summary>      What is the point of a question - With a backtick Box?</summary><p>
 To answer things I suppose...
 Collapsible until here.
-</p></details>
+</p></details%20>
 
-||
-|---|
-|<details><summary>      *What is the point of a question - With a backtick Box?</summary><p>
-To answer things I suppose...
-Collapsible until here.
-</p></details>|
 
 ||
 |---|
