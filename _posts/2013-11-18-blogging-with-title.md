@@ -27,3 +27,10 @@ more content here...</br>
   Random Things
 </details>
 
+<details><summary>
+    <p>Collapsed Block</p>
+  </summary>
+
+  <h2 id="header">Header</h2>
+  Random Things
+</details>
