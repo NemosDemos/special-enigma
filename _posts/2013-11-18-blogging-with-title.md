@@ -18,17 +18,12 @@ more content here...</br>
 </details>
 
 
-<details><summary>Your header here! (Click to expand)</summary>
+<details>
+  <summary>
+    <p>Collapsed Block</p>
+  </summary>
 
-
-*Your content here...*</br>
-(markup only where supported)</br>
-more content here...</br>
+  <h2 id="header">Header</h2>
+  Random Things
 </details>
 
-<details><summary>Your header here! (Click to expand)</summary>
-    
-    *Your content here...*</br>
-    (markup only where supported)</br>
-    more content here...</br>
-</details>
