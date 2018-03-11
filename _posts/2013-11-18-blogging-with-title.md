@@ -10,8 +10,7 @@ This is where the TL;DR header summary should go
 
 This is a body of text. I'm not sure how long it will be but it might be long. Or maybe not.
 
- + What is the point of a question?
- -----------------
+
 
 
 
@@ -20,13 +19,18 @@ To answer things I suppose...
 Collapsible until here.
 </p></details>
 
-<details><summary>#What is the point of a question - With a backtick Box?</summary><p>
+<details><summary>      What is the point of a question - With a backtick Box?</summary><p>
 To answer things I suppose...
-
----
-{{standard 3-backtick code block omitted from here due to escaping issues}}
----
-
 Collapsible until here.
 </p></details>
 
+
+<details><summary>      *What is the point of a question - With a backtick Box?</summary><p>
+To answer things I suppose...
+Collapsible until here.
+</p></details>
+
+<details><summary>      #*What is the point of a question - With a backtick Box?</summary><p>
+To answer things I suppose...
+Collapsible until here.
+</p></details>
