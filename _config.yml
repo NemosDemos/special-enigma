@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: "/test"
+url: "https://romantic-lewin-6c3a94.netlify.com/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
