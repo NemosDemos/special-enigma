@@ -24,7 +24,6 @@ This is a body of text. I'm not sure how long it will be but it might be long. O
 </details>
 
 <details><summary><p>Collapsed Block</p></summary>
-
   <h2 id="header">Header</h2>
   Random Things
 </details>
