@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/test"
+baseurl: ""
 url: "https://romantic-lewin-6c3a94.netlify.com/"
 
 # THEME-SPECIFIC CONFIGURATION
