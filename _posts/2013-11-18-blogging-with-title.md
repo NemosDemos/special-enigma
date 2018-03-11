@@ -12,28 +12,7 @@ This is a body of text. I'm not sure how long it will be but it might be long. O
 ..*
 <details>
     <summary>Your header here! (Click to expand)</summary>
-    Your content here...</br>
-    (markup only where supported)</br>
-    more content here...</br>
-</details>
-    
-..*
-  <details><summary>Random Thingy</summary>
-Your content here...</br>
-(markup only where supported)</br>
-more content here...</br>
-</details>
-
-`
-<details><summary>Backticks </summary>
-Your content here...</br>
-(markup only where supported)</br>
-more content here...</br>
-</details>
-`
-
-
-<details>`<summary>Backticks2 </summary>`
+ 
 Your content here...</br>
 (markup only where supported)</br>
 more content here...</br>
