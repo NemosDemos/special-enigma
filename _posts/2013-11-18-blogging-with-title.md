@@ -30,7 +30,6 @@ To answer things I suppose...
 Collapsible until here.
 </p></details>
 
-<details><summary>      #*What is the point of a question - With a backtick Box?</summary><p>
-To answer things I suppose...
-Collapsible until here.
-</p></details>
+||
+|---|
+|<details><summary>      #*What is the point of a question - With a backtick Box?</summary><p>To answer things I suppose... Collapsible until here. </p></details>|
